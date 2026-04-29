@@ -188,3 +188,6 @@ document.querySelectorAll('.service-card, .portfolio-item, .feature-item').forEa
     el.style.transition = 'all 0.6s ease';
     observer.observe(el);
 });
+
+
+
